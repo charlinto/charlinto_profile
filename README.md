@@ -21,7 +21,7 @@ preview
 
 <p align="left"> <a href="https://twitter.com/@charlintof" target="blank"><img src="https://img.shields.io/twitter/follow/@charlintof?logo=twitter&style=for-the-badge" alt="@charlintof" /></a> </p>
 
-- 🌱 I’m currently learning **golang,Reactjs**
+- 🌱 I’m currently learning **golang, Reactjs**
 
 - 👨‍💻 All of my projects are available at [https://charlinto.netlify.app/](https://charlinto.netlify.app/)
 
